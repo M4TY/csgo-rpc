@@ -11,6 +11,7 @@
 
 ## 1.1 - Config file
 
+FROM VALVE: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration
 
 > Navigate into
 ```
