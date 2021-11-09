@@ -53,19 +53,5 @@
       match_stats: { kills: 0, assists: 0, deaths: 0, mvps: 0, score: 0
         }
     },
-    previously: {
-      player: {
-        steamid: '76561198205877628',
-        name: 'sEb',
-        observer_slot: 5,
-        state: [Object
-            ],
-        weapons: [Object
-            ],
-        match_stats: [Object
-            ]
-        }
-    },
-    auth: { token: 'CCWJu64ZV3JHDT8hZc'
     }
 }
