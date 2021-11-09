@@ -15,7 +15,7 @@ FROM VALVE: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offe
 
 > Navigate into
 ```
-<YOUR DISK>:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\gamestate_integration_consolesample.cfg
+<YOUR DISK>:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\gamestate_integration_consolesample.cfg
 ```
 
 > Paste this sample config
