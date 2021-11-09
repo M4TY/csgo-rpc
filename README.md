@@ -11,12 +11,12 @@
 
 ## 1.1 - Config file
 
-FROM VALVE: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration
 
 > Navigate into
 ```
-D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\gamestate_integration_consolesample.cfg
+<Your Steam Directory>\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\gamestate_integration_consolesample.cfg
 ```
+(note: `<Your Steam Directory>` is usually `C:\Program Files (x86)\Steam\` or wherever you have installed Steam on another drive)
 
 > Paste this sample config
 ```
