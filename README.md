@@ -12,7 +12,7 @@
 ## 1.1 - Config file
 
 
-> 1) Navigate into
+> Navigate into
 ```
 D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\gamestate_integration_consolesample.cfg
 ```
