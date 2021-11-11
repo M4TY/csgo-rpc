@@ -48,8 +48,9 @@ function updatePresence(data) {
         var mode = data.map.mode
         const gamemode = mode.charAt(0).toUpperCase() + mode.slice(1);
         var map = data.map.name
-
-        var details = `Playing ${ gamemode } on ${ map }`
+        var displayMap = map.split('_')
+        var upperCaseMap =  displayMap[1].charAt(0).toUpperCase() + displayMap[1].slice(1);
+        var details = `Playing ${ gamemode } on ${ upperCaseMap }`
 
         var presence = {
             details: details,
